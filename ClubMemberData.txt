@@ -1,0 +1,2 @@
+MemberId,Name,Age,City,Gender,lockNumber,PaidAmount,RemainingAmount,JoiningDate
+1,saurabh,23,latur,male,12,890,110,1,2,2021

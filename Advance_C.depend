@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1615269414 source:c:\users\141573\documents\advance_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ClubApi.h"
+
+1614497866 source:c:\users\141573\documents\advance_c\func.c
+
+1615210150 c:\users\141573\documents\advance_c\requiredfunctions.h
+	"memberInfo.h"
+	<string.h>
+	<ctype.h>
+
+1614602238 c:\users\141573\documents\advance_c\memberinfo.h
+
+1615376772 c:\users\141573\documents\advance_c\clubapi.h
+	"memberInfo.h"
+	<string.h>
+	<ctype.h>
+
